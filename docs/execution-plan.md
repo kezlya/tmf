@@ -18,39 +18,62 @@ This time: Plan → execute daily → ship fast → iterate.
 
 The execution plan is designed to produce revenue as fast as possible. No perfection. No "one more feature." Ship, sell, improve.
 
+## Reality Check (Feb 25, 2026)
+
+Planning is done. We have 14 docs of strategy, research, and product definition. None of it generates revenue.
+
+The VIP package ($400) requires ZERO product files — Vitaly IS the product. He already sets up OpenClaw daily. All that's needed is a Gumroad listing and a Calendly link.
+
+**Stop planning. Start building.**
+
 ---
 
-## Phase 1: Ship MVP (Week 1) — Days 1-7
+## Phase 1: Ship MVP — 7 Days (Target: March 4, 2026)
 
-**Goal: Have something to sell by end of week 1.**
+### Day 1 (Feb 26): Make It Buyable
+- [ ] Create Gumroad product page for Package 3 VIP ($400)
+- [ ] Set up Calendly link for VIP session booking (Google Meet)
+- [ ] Create Gumroad product page for Package 1 DIY ($50) — placeholder, mark "coming soon" or upload what's ready
 
-Ship Package 1 (DIY, $50) and Package 3 (VIP, $400) first. Skip Package 2 (Guided) — it requires video production and can come later.
+**After Day 1: VIP sessions are sellable. First $400 can come in.**
 
-### Day 1-2: Create the DIY Assets
-- [ ] Export Vitaly's SOUL.md as a clean, customizable template
-- [ ] Create a generic Trello board template (exportable JSON or step-by-step creation guide)
-- [ ] Write cron job configuration templates
-- [ ] Create a prompt library document (Fire mode prompts, Compass mode prompts, session prompts)
-- [ ] Write a setup guide (step-by-step text, no video yet)
+### Day 2 (Feb 27): Core Deliverable — SOUL.md
+- [ ] Create generic SOUL.md template from Vitaly's personal config
+- [ ] Strip personal references (project names, board IDs, dev dispatching)
+- [ ] Create two variants: tough love / gentle guide
+- [ ] Add onboarding questions section
 
-### Day 3-4: Build the Landing Page
-- [ ] Choose platform (Carrd, Framer, or simple static site — fast, not perfect)
-- [ ] Write sales copy (use pain points from docs/audience.md)
-- [ ] Set up payment processing (Gumroad for digital downloads, Calendly + Stripe for VIP booking)
-- [ ] Package 1: Gumroad digital product ($50)
-- [ ] Package 3: Calendly booking page linked from landing page ($400, paid before booking)
+### Day 3 (Feb 28): Core Deliverable — Trello Skill + Cron
+- [ ] Clean up Trello SKILL.md (remove personal board IDs, add placeholders)
+- [ ] Add "How to get your Trello API key" section
+- [ ] Update board structure to 10-column TMF layout
+- [ ] Write cron job configs (daily/weekly/monthly planning sessions)
 
-### Day 5-6: Test and Polish
-- [ ] Have one person (non-technical) try Package 1 and note where they get stuck
-- [ ] Fix the obvious friction points
-- [ ] Set up a basic email capture for leads who aren't ready to buy
+### Day 4 (Mar 1): Setup Guide
+- [ ] Write step-by-step setup guide in markdown
+- [ ] Cover: OpenClaw install → SOUL.md placement → Trello skill setup → cron activation
+- [ ] Include the onboarding question flow
+- [ ] Keep it simple — if a section takes more than 30 min to write, it's too detailed
 
-### Day 7: Go Live
-- [ ] Publish landing page
-- [ ] First LinkedIn post announcing TMF
-- [ ] Share in relevant communities
+### Day 5 (Mar 2): Package and Upload
+- [ ] Export setup guide to PDF
+- [ ] Assemble zip: SOUL.md (2 variants) + Trello SKILL.md + cron configs + setup guide PDF
+- [ ] Upload to Gumroad as Package 1 DIY ($50)
+- [ ] Test the purchase flow yourself
 
-**Revenue possible after Phase 1:** First sales from VIP bookings and DIY purchases.
+**After Day 5: Both packages are live and sellable.**
+
+### Day 6 (Mar 3): Lead Magnet
+- [ ] Write "Is Your AI Actually Helping You?" PDF checklist (10 points)
+- [ ] Set up email capture on Gumroad or simple landing page
+- [ ] Connect lead magnet to TMF product pages
+
+### Day 7 (Mar 4): Go Live — Content Starts
+- [ ] Write and publish first LinkedIn post (origin story angle)
+- [ ] Write 2 more LinkedIn posts and schedule them
+- [ ] Share in relevant OpenClaw communities
+
+**After Day 7: Products live, lead magnet active, content flowing. Phase 1 complete.**
 
 ---
 
@@ -78,14 +101,13 @@ Ship Package 1 (DIY, $50) and Package 3 (VIP, $400) first. Skip Package 2 (Guide
 
 ---
 
-## Phase 3: Add Package 2 (Weeks 3-5)
+## Phase 3: Package 2 — Skool Community (Weeks 3-5)
 
-**Goal: Record the guided webinar and launch the $150 tier.**
+**Goal: Launch the Skool community as Package 2.**
 
-- [ ] Record a screen-share walkthrough of the full TMF setup
-- [ ] Edit into a clean, watchable video (45-60 min)
-- [ ] Host on Gumroad or Teachable
-- [ ] Add to landing page as the middle tier
+- [ ] Finalize Agent Orchestrator pivot to include OpenClaw help
+- [ ] Set pricing for TMF-audience tier
+- [ ] Link from Gumroad/TMF pages to Skool
 - [ ] Announce on LinkedIn
 
 ---
@@ -97,8 +119,10 @@ Ship Package 1 (DIY, $50) and Package 3 (VIP, $400) first. Skip Package 2 (Guide
 - Track revenue by package tier in stats/
 - Track content performance (which posts drive sales?)
 - Adjust pricing if needed (market feedback)
-- Consider: Skool community as a recurring revenue add-on
+- Consider: Google Ads for paid acquisition
 - Consider: YouTube channel for broader reach
+- Consider: Dashboard/visualization feature
+- Consider: planning.art website
 - Consider: Referral program (clients refer friends)
 
 ---
@@ -107,7 +131,7 @@ Ship Package 1 (DIY, $50) and Package 3 (VIP, $400) first. Skip Package 2 (Guide
 
 | Milestone | Amount | Meaning |
 |-----------|--------|---------|
-| First sale | $50-400 | Validation. The product works. |
+| First sale | $50-400 | Validation. The product works. The freeze didn't win. |
 | $1,000 | $1,000 | 10x first sale. Momentum. |
 | $5,000 | $5,000 | This is a real business. |
 | $10,000 | $10,000 | Halfway to goal. |
